@@ -6,7 +6,7 @@ Haze is a research programming language aimed at exploring existing and new idea
 Main : Unit -> Unit
 Main
 {
-    PrintLine "Hello, World!"
+    PrintLine "Farewell, world."
 }
 ```
 See [Hello World Tutorial](Tutorial/Hello%20World.md) for a brief explanation of above program.

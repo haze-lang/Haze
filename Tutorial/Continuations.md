@@ -1,0 +1,2 @@
+# Continuations
+Continuations at a given point in a program represent computation that has yet to be computed. Continuations are found naturally in programming languages and are usually implicit in the language runtimes. For example, a procedure invocation transfers the control to the called procedure. At this point, the computation that has to be computed when the control transfers back is referred to as current continuation.
